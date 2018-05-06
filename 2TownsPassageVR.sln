@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2TownsPassageVR.CSharp", "2TownsPassageVR.CSharp.csproj", "{1731D9BA-CED1-5A3A-4C08-5C76237032AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2TownsPassageVR.CSharp.Editor", "2TownsPassageVR.CSharp.Editor.csproj", "{F7753C43-3932-C45A-51DD-1FCEC042F821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1731D9BA-CED1-5A3A-4C08-5C76237032AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1731D9BA-CED1-5A3A-4C08-5C76237032AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1731D9BA-CED1-5A3A-4C08-5C76237032AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1731D9BA-CED1-5A3A-4C08-5C76237032AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7753C43-3932-C45A-51DD-1FCEC042F821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7753C43-3932-C45A-51DD-1FCEC042F821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7753C43-3932-C45A-51DD-1FCEC042F821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7753C43-3932-C45A-51DD-1FCEC042F821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
